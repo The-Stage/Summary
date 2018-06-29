@@ -170,17 +170,17 @@ more and more larger topics.
     <div class="row"></div>
     <div>
         <p class="center">
-            <p>
+            <p class="center">
             <i>
                 Don't bother yourself with learning topics you're not interrested in. 
                 You won't improve your learning. You will be ennoyed.
             </i></p>
-            <p>
+            <p class="center">
             <i>
                 Do little, have fun and grow up your skills through learning.
             </i></p>
         </p>
-        <p>
+        <p style="font-size:1.5em" class="center">
             <span class="grey-text">{{ site.data.members.head.firstname }} {{site.data.members.head.lastname }}</span>
         </p>
     </div>
