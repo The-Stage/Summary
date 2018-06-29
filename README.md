@@ -2,6 +2,7 @@
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <!--Import materialize.css-->
 <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+<link type="text/css" rel="stylesheet" href="css/main.css"  media="screen,projection"/>
 
 <!--Let browser know website is optimized for mobile-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -17,8 +18,8 @@ more and more larger topics.
     <div class="section">
         <div class="col s12 m4">
             <div class="icon-block">
-               <h2 class="center light-blue-text"><i class="material-icons">flash_on</i></h2>
-               <h5 class="center">Speeds up learning</h5>
+               <h2 class="center black-text"><i class="material-icons">flash_on</i></h2>
+               <h6 class="center">Speeds up learning</h6>
                <p class="light center">
                     The Stage is a giant blocnote of an english learning team. 
                     Summary of activities are held here.
@@ -28,7 +29,7 @@ more and more larger topics.
         
         <div class="col s12 m4">
             <div class="icon-block">
-               <h2 class="center light-grey-text"><i class="material-icons">edit</i></h2>
+               <h2 class="center black-text"><i class="material-icons">edit</i></h2>
                <h6 class="center">Act as an editor</h6>
                <p class="light center">
                     This interface is updated through github and it's content
@@ -39,7 +40,7 @@ more and more larger topics.
         
         <div class="col s12 m4">
             <div class="icon-block">
-               <h2 class="center light-blue-text"><i class="material-icons">home</i></h2>
+               <h2 class="center black-text"><i class="material-icons">home</i></h2>
                <h6 class="center">Improve your skills</h6>
                <p class="light center">
                     The Stage holds thematics based content to help learning 
