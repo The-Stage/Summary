@@ -18,7 +18,7 @@ more and more larger topics.
     <div class="section">
         <div class="col s12 m4">
             <div class="icon-block">
-               <h2 class="center black-text"><i class="material-icons">flash_on</i></h2>
+               <h2 class="center grey-text"><i class="material-icons">flash_on</i></h2>
                <h6 class="center">Speeds up learning</h6>
                <p class="light center">
                     The Stage is a giant blocnote of an english learning team. 
@@ -29,7 +29,7 @@ more and more larger topics.
         
         <div class="col s12 m4">
             <div class="icon-block">
-               <h2 class="center black-text"><i class="material-icons">edit</i></h2>
+               <h2 class="center grey-text"><i class="material-icons">edit</i></h2>
                <h6 class="center">Act as an editor</h6>
                <p class="light center">
                     This interface is updated through github and it's content
@@ -40,7 +40,7 @@ more and more larger topics.
         
         <div class="col s12 m4">
             <div class="icon-block">
-               <h2 class="center black-text"><i class="material-icons">home</i></h2>
+               <h2 class="center grey-text"><i class="material-icons">home</i></h2>
                <h6 class="center">Improve your skills</h6>
                <p class="light center">
                     The Stage holds thematics based content to help learning 
@@ -49,14 +49,37 @@ more and more larger topics.
             </div>
         </div>
     </div>
-    <div class="row"></div>
-    <div class="divider"></div>
-    
-<div class="section">
-
-#Topics
-
-
 </div>
+<div class="row"></div>
+<div class="divider"></div>
+
+<div class="section">
+    <h1 class="center">Topics</h1>
+
+    <div class="row">
+        <div class="col s12 m6">
+          <div class="card white">
+            <div class="card-content grey-text">
+              <span class="card-title">Cultre</span>
+              <p>Benin culture is very vast. Let's discuss about it.</p>
+            </div>
+            <div class="card-action">
+              <a href="#">More</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col s12 m6">
+          <div class="card white">
+            <div class="card-content grey-text">
+              <span class="card-title">Sport</span>
+              <p>Game amaze us. We like playing and we should comment it.</p>
+            </div>
+            <div class="card-action">
+              <a href="#">More</a>
+            </div>
+          </div>
+        </div>
+    </div>
 </div>
 
