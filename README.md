@@ -25,3 +25,5 @@ One english topic per day is a good deal.
 {{ post.author}} {{ post.date }}
 
 {% endfor %}
+
+<div class="red-text">OK</div>
