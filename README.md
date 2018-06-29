@@ -17,3 +17,9 @@ One english topic per day is a good deal.
     </li>
   {% endfor %}
 </ul>
+
+{% for post in site.posts %}
+    <div>
+      {{ post.title }}
+    </div>
+{% endfor %}
