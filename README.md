@@ -171,12 +171,12 @@ more and more larger topics.
     <div>
         <p class="center">
             <p>
-            <i class="amber-text quote">
+            <i>
                 Don't bother yourself with learning topics you're not interrested in. 
                 You won't improve your learning. You will be ennoyed.
             </i></p>
             <p>
-            <i class="flow-text amber-text">
+            <i>
                 Do little, have fun and grow up your skills through learning.
             </i></p>
         </p>
