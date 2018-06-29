@@ -128,7 +128,7 @@ more and more larger topics.
           <div class="card white">
             <div class="card-content grey-text">
               <span class="card-title">Relationship</span>
-              <p>Humm, relations are complicated. Messed up every time. Give me some advices.</p>
+              <p>Humm, relations are complicated. Give me some advices.</p>
             </div>
             <div class="card-action">
               <a href="#">More</a>
@@ -162,6 +162,21 @@ more and more larger topics.
           </div>
         </div>
     </div>
-
+</div>
+<div class="row"></div>
+<div class="section">
+    <h1 class="center">Manager</h1>
+    <div class="row"></div>
+    <div class="row"></div>
+    <div>
+        <p class="flow-text">
+            Don't bother yourself with learning topics you're not interrested in. 
+            You won't improve your learning. You will be ennoyed.
+        </p>
+        <p class="flow-text">
+            Do little, have fun and grow up your skills through learning.
+        </p>
+        <h5>{{ site.data.members.head.firstname site.data.members.head.lastname }}</h5>
+    </div>
 </div>
 
