@@ -7,3 +7,13 @@ The brain is kept posted then and improve quickly in the new language we're lear
 ## Our deal
 
 One english topic per day is a good deal.
+
+## Links
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
