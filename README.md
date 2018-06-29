@@ -10,7 +10,7 @@
 The language learning process require continuous learning. At least 15 minutes per day. 
 The brain is kept posted then and improve quickly in the new language we're learning.
 
-**The Stage** is an opensource learning content updated continuously to convert 
+**The Stage** is an opensource learning content updated continuously to cover
 more and more larger topics.
 
 <div class="row">
@@ -18,7 +18,7 @@ more and more larger topics.
         <div class="col s12 m4">
             <div class="icon-block">
                <h2 class="center light-blue-text"><i class="material-icons">flash_on</i></h2>
-               <h5 class="center">Speeds up learning<</h5>
+               <h5 class="center">Speeds up learning</h5>
                <p class="light center">
                     The Stage is a giant blocnote of an english learning team. 
                     Summary of activities are held here.
