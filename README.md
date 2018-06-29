@@ -169,14 +169,14 @@ more and more larger topics.
     <div class="row"></div>
     <div class="row"></div>
     <div>
-        <i class="flow-text amber-text quote">
+        <i class="amber-text quote">
             Don't bother yourself with learning topics you're not interrested in. 
             You won't improve your learning. You will be ennoyed.
         </i>
         <i class="flow-text amber-text">
             Do little, have fun and grow up your skills through learning.
         </i>
-        <h5>{{ site.data.members.head.firstname }} {{site.data.members.head.lastname }}</h5>
+        <span class="grey-text">{{ site.data.members.head.firstname }} {{site.data.members.head.lastname }}</span>
     </div>
 </div>
 
