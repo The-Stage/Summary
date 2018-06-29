@@ -1,0 +1,33 @@
+head:
+    lastname: DOGNON
+    firstname: Bénédicte
+    grade: Student Engineer
+    school: EPAC
+
+admin:
+    lastname: AMOUSSOU
+    firstname: Kenneth
+    grade: Student Engineer
+    school: EPAC
+
+members:
+    m1:
+        lastname: AKAKOTO
+        firstname: Boris Marius
+        grade: Student Engineer
+        school: EPAC
+    m2:
+        lastname: ADEKAMBI
+        firstname: Robert
+        grade: Student Engineer
+        school: EPAC
+    m3:
+        lastname: DEGUENON
+        firstname: Léré Mitterand
+        grade: Student Engineer
+        school: EPAC
+    m4:
+        lastname: GODONOU
+        firstname: Houéfa Romancia
+        grade: Student Engineer
+        school: EPAC
