@@ -19,6 +19,7 @@ One english topic per day is a good deal.
 </ul>
 
 {% for post in site.posts %}
+
 {{ post }}
 
 {{ post.author}} {{ post.date }}
