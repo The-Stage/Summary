@@ -3,7 +3,7 @@ body{
 }
 
 .icon-block i{
-    font-size: 2em;
+    font-size: 1.2em;
 }
 
 
@@ -14,4 +14,18 @@ body{
 
 #link a{
   margin-left: 1em;
+}
+
+.content{
+  font-size: 1.3em;
+}
+
+.tag{
+  margin-left: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.aside-link{
+  color: rgba(0, 0, 0, 0.8);
 }

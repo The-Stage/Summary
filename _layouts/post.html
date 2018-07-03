@@ -1,0 +1,85 @@
+<!doctype html>
+
+<html>
+  <head>
+    <title>Topics</title>
+    <meta charset="utf-8" />
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="../css/materialize.min.css"  media="screen,projection"/>
+    <link type="text/css" rel="stylesheet" href="../css/main.css"  media="screen,projection"/>
+    <link rel="stylesheet" type="text/css" href="fonts.googleapis.com/css?family=Ubuntu" />
+  </head>
+  <body>
+    <div style="" class="row">
+      <div class="col l3 m12 s12 z-depth-2 hide-on-med-and-down" style="position:fixed; top:0px; bottom:0px;">
+        <div class="row"></diV>
+        <div class="row"></diV>
+        <div class="row"></diV>
+        <div class="row">
+          <h4 class="center">The Stage</h4>
+        </div>
+        <div class="row"></diV>
+        <div class="row"></diV>
+        <div class="row">
+          <ul class="col l12 m12 s12">
+            {% for post in site.posts %}
+              <li><a class="aside-link" href="{{ post.url }}">{{ post.title }}</a><li>
+                <li><a class="aside-link" href="#">test</a><li>
+            {% endfor %}
+          </ul>
+
+        </div>
+      </div>
+      <div class="container col l9 m12 s12 offset-l3 grey-text text-darken-3" style="padding:2em;">
+        <div class="row"></div>
+        <div class="row"></div>
+
+        <h4>The Stage</h4>
+        <div class="row">
+          <h3>{{ post.title }}</h3>
+          <h6 class="light">{{ post.date | date_to_string }}</h6>
+          <div class="divider"></div>
+          <div class="row"></div>
+          <div class="row justify content light" style="padding:1em;">
+            {{ post.content }}
+          </div>
+          <div class="divider"></div>
+          <h6>{{ post.author }}</h6>
+        </div>
+        <div class="row">
+          <h5>Tags</h5>
+          <div class="row"></div>
+          {% for tag in post.tags %}
+            <span class="tag pink lighten-3 black-text">{{ tag }}</span>
+          {% endfor %}
+        </div>
+
+        <div class="row"></div>
+        <div class="row"></div>
+        <div class="row" id="link">
+          <a class="btn-floating btn-large waves-effect waves-light cyan" title="Home" href="../index.html">
+            <i class="material-icons  grey-text text-darken-3">home</i>
+          </a>
+
+          <a class="btn-floating btn-large waves-effect waves-light amber" title="Members">
+            <i class="material-icons  grey-text text-darken-3">person</i>
+          </a>
+        </div>
+
+        <div class="row"></div>
+        <div class="row"></div>
+        <div class="footer grey-text">
+          <div class="center">
+            Copyright 2018
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </body>
+
+</html>
