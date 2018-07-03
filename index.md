@@ -70,9 +70,6 @@ more and more larger topics.
               <span class="card-title">Cultre</span>
               <p>Benin culture is very vast. Let's discuss about it.</p>
             </div>
-            <div class="card-action">
-              <a href="#">More</a>
-            </div>
           </div>
         </div>
         
@@ -81,9 +78,6 @@ more and more larger topics.
             <div class="card-content black-text">
               <span class="card-title">Sport</span>
               <p>Game amaze us. We like playing and we should comment it.</p>
-            </div>
-            <div class="card-action">
-              <a href="#">More</a>
             </div>
           </div>
         </div>
@@ -117,7 +111,8 @@ more and more larger topics.
               <span class="card-title">Lifestyle</span>
               <p>We are all unique and use to do things differently. Share your lifestyle with us.</p>
             </div>
-        </a>
+          </div>
+         </a>
         </div>
         
         <div class="col s12 m6">
