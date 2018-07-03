@@ -8,12 +8,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
 <div class="black-text">
+<p class="justify">
 The language learning process require continuous learning. At least 15 minutes per day. 
 The brain is kept posted then and improve quickly in the new language we're learning.
-
-**The Stage** is an opensource learning content updated continuously to cover
+</p>
+<p class="justify">
+<strong>The Stage</strong> is an opensource learning content updated continuously to cover
 more and more larger topics.
+</p>
 </div>
+
 <div class="row">
     <div class="section">
         <div class="col s12 m4">
@@ -92,9 +96,6 @@ more and more larger topics.
               <span class="card-title">Politics</span>
               <p>In so many way, politics manage our daily life. Give your view point here.</p>
             </div>
-            <div class="card-action">
-              <a href="#">More</a>
-            </div>
           </div>
         </div>
         
@@ -104,24 +105,19 @@ more and more larger topics.
               <span class="card-title">Fashion</span>
               <p>Be handsome, be pretty, be clean is also important. Old fashioned? Explain it.</p>
             </div>
-            <div class="card-action">
-              <a href="#">More</a>
-            </div>
           </div>
         </div>
     </div>
     
     <div class="row">
         <div class="col s12 m6">
+        <a href="#">
           <div class="card white">
             <div class="card-content black-text">
               <span class="card-title">Lifestyle</span>
               <p>We are all unique and use to do things differently. Share your lifestyle with us.</p>
             </div>
-            <div class="card-action">
-              <a href="#">More</a>
-            </div>
-          </div>
+        </a>
         </div>
         
         <div class="col s12 m6">
@@ -129,9 +125,6 @@ more and more larger topics.
             <div class="card-content black-text">
               <span class="card-title">Relationship</span>
               <p>Humm, relations are complicated. Give me some advices.</p>
-            </div>
-            <div class="card-action">
-              <a href="#">More</a>
             </div>
           </div>
         </div>
@@ -144,9 +137,6 @@ more and more larger topics.
               <span class="card-title">Technology</span>
               <p>I am an engineer. Are you? Come and share your knowledge on the stage.</p>
             </div>
-            <div class="card-action">
-              <a href="#">More</a>
-            </div>
           </div>
         </div>
         
@@ -155,9 +145,6 @@ more and more larger topics.
             <div class="card-content black-text">
               <span class="card-title">Entertainment</span>
               <p>A goat, a cabbage and the wolf on the sea. Checkout out what happen!</p>
-            </div>
-            <div class="card-action">
-              <a href="#">More</a>
             </div>
           </div>
         </div>
