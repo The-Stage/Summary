@@ -1,8 +1,8 @@
 ---
 layout: categories
 title: Culture
+order: 3
 ---
-
 {% if site.categories.culture == null %}
   <div class="row ">No post available.</div>
 {% else %}
