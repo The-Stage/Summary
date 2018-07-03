@@ -67,7 +67,7 @@ more and more larger topics.
         <div class="col s12 m6">
           <div class="card white">
             <div class="card-content black-text">
-              <span class="card-title">Cultre</span>
+              <span class="card-title">Culture</span>
               <p>Benin culture is very vast. Let's discuss about it.</p>
             </div>
           </div>
@@ -105,14 +105,12 @@ more and more larger topics.
     
     <div class="row">
         <div class="col s12 m6">
-        <a href="#">
           <div class="card white">
             <div class="card-content black-text">
               <span class="card-title">Lifestyle</span>
               <p>We are all unique and use to do things differently. Share your lifestyle with us.</p>
             </div>
           </div>
-         </a>
         </div>
         
         <div class="col s12 m6">
