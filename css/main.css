@@ -1,3 +1,6 @@
+body{
+  font-family: Ubuntu;
+}
 
 .icon-block i{
     font-size: 2em;
@@ -9,7 +12,6 @@
     font-style: italic;
 }
 
-h6{
-    font-weight: bold;
-    color: black;
+#link a{
+  margin-left: 1em;
 }
