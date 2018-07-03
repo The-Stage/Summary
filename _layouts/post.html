@@ -2,7 +2,7 @@
 
 <html>
   <head>
-    <title>Topics</title>
+    <title>{{ post.title }}</title>
     <meta charset="utf-8" />
     <!--Let browser know website is optimized for mobile-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -25,12 +25,6 @@
         <div class="row"></diV>
         <div class="row"></diV>
         <div class="row">
-          <ul class="col l12 m12 s12">
-            {% for post in site.posts %}
-              <li><a class="aside-link" href="{{ post.url }}">{{ post.title }}</a><li>
-                <li><a class="aside-link" href="#">test</a><li>
-            {% endfor %}
-          </ul>
 
         </div>
       </div>
@@ -40,20 +34,20 @@
 
         <h4>The Stage</h4>
         <div class="row">
-          <h3>{{ site.posts[0].title }}</h3>
-          <h6 class="light">{{ site.posts[0].date }}</h6> <!-- | date_to_string  -->
+          <h3>{{ post.title }}</h3>
+          <h6 class="light">{{ post.date }}</h6> <!-- | date_to_string  -->
           <div class="divider"></div>
           <div class="row"></div>
           <div class="row justify content light" style="padding:1em;">
-            {{ site.posts[0].content }}
+            {{ post.content }}
           </div>
           <div class="divider"></div>
-          <h6>{{ site.posts[0].author }}</h6>
+          <h6>{{ post.author }}</h6>
         </div>
         <div class="row">
           <h5>Tags</h5>
           <div class="row"></div>
-          {% for tag in site.posts[0].tags %}
+          {% for tag in posts.tags %}
             <span class="tag pink lighten-3 black-text">{{ tag }}</span>
           {% endfor %}
         </div>
