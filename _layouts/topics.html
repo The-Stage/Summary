@@ -22,6 +22,7 @@
           <h1 class="grey-text text-darken-4">Topics</h1>
           <i style="font-size:1.5em">Choose your topics and have fun</i>
         </div>
+        {% assign sorted_pages = (site.pages | sort: 'order') %}
         <!-- Line one -->
         <div class="row grey-text text-darken-3">
           <div class="col l4 s12 m12">
@@ -36,7 +37,7 @@
                    <p class="justify" style="min-height:75px;">
                         Benin culture is very vast. Let's discuss about it.
                   </p>
-                  <a class="btn btn-flat" href="{{ culture.url }}">
+                  <a class="btn btn-flat" href="{{ sorted_pages[3].url | absolute_url }}">
                     <i class="material-icons  grey-text text-darken-3 right">more_horiz</i>
                     READ
                   </a>
