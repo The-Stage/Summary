@@ -21,6 +21,14 @@
         <div class="row"></diV>
         <div class="row">
           <h4 class="center">The Stage</h4>
+          <div></div>
+          <div class="row">
+            {% for g in page.glossary %}
+              <div class="row">
+                <span class="amber-text">g.word</span>: <span>g.desc</span>
+              </div>
+            {% endfor %}
+          </div>
         </div>
         <div class="row"></diV>
         <div class="row"></diV>
@@ -35,7 +43,7 @@
         <h4>The Stage</h4>
         <div class="row">
           <h3>{{ page.title }}</h3>
-          <h6 class="light">{{ page.date }}</h6> <!-- | date_to_string  -->
+          <h6 class="light">{{ page.date | date_to_string }}</h6> <!-- | date_to_string  -->
           <div class="divider"></div>
           <div class="row"></div>
           <div class="row justify content light" style="padding:1em;">
