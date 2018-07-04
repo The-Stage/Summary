@@ -1,12 +1,12 @@
 ---
 layout: categories
-title: Culture
-order: 3
+title: Politics
+order: 5
 ---
-{% if site.categories.culture == null %}
+{% if site.categories.politics == null %}
   <div class="row ">No post available.</div>
 {% else %}
-  {% for post in site.categories.culture %}
+  {% for post in site.categories.politics %}
   <div class="row">
     <a href="{{ post.url }}">
       {{ post.title }}

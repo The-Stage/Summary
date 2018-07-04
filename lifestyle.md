@@ -1,12 +1,12 @@
 ---
 layout: categories
-title: Culture
-order: 3
+title: Lifestyle
+order: 7
 ---
-{% if site.categories.culture == null %}
+{% if site.categories.lifestyle == null %}
   <div class="row ">No post available.</div>
 {% else %}
-  {% for post in site.categories.culture %}
+  {% for post in site.categories.lifestyle %}
   <div class="row">
     <a href="{{ post.url }}">
       {{ post.title }}
