@@ -23,9 +23,10 @@
         <div class="row">
           <h3>{{ page.title }}</h3>
           <h6 class="light">{{ page.date | date_to_string }}</h6> <!-- | date_to_string  -->
+          <div class="row"></div>
           <div class="row">
             {% for category in page.categories %}
-                <span class="tag amber lighten-3 black-text">{{ category }}</span>
+                <span class="tag amber lighten-3 black-text">{{ category | capitalize }}</span>
             {% endfor %}
           </div>
           <div class="divider"></div>
