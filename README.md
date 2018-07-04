@@ -15,7 +15,7 @@ We learn language quite passively and develop some habit without being aware of 
 While growing up, we start being aware of many thing. We ask a lot of questions. We develop 
 curiosity. Who remember when he is told not to touch something or not going somewhere. 
 Generaly we do that thing or go to that place to know what is going on there. 
-Being curious and learn is part of our personality.
+Being curious and learn are part of our personality.
 
 Now, *why not use all our consiousness to do something useful for us?* 
 The Stage aim to help you out with your desire to learn english. But 
@@ -36,11 +36,11 @@ with everybody.
 
 ## Schedule
 
-A language learning process need dayly practice. And so:
+A language learning process need daily practice. And so:
 
 - Every day, fifteen minutes of conversation will be organized online
 
-- Every Wednesday and Sunday, two hours of discussion around a choosen topics online. 
+- Every Wednesday and Sunday, two hours of discussion around a choosen topic online. 
 A leader which prepare the topic will hold the Stage as an expert. For any question 
 he/she will be the reference. So the leader have to master his topic. Don't worry, all life 
 is a long learning process. We won't ask you the impossible or ask for the moon.
@@ -50,7 +50,7 @@ and dazzle (funny, serious, focused, motivating, etc.) the group.
 This will be our speaking practice time.
 
 After every stage, discussion, a summary of what to remember will be hosted online in 
-a `git repository` and serves as a static web site. So you can checkout anything out 
+a `git repository` and served as a static web site. So you can checkout anything out 
 when you need it.
 
 ## Diaries
