@@ -17,7 +17,8 @@ body{
 }
 
 .content{
-  font-size: 1.3em;
+  font-size: 1em;
+  font-weight: 300;
 }
 
 .tag{
