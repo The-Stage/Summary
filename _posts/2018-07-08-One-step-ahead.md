@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: One step ahead
 date: 2018-07-08
 categories: stories
 author: AMOUSSOU Z. Kenneth
-tag: [ thriller, advenure ]
+tag: [ thriller ]
 ---
 
 ## Chapter One
