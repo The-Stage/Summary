@@ -1,7 +1,7 @@
 ---
 layout: categories
 title: Books
-order: 4
+order: 12
 ---
 {% if site.categories.stories == null %}
   <div class="row ">No post available.</div>
