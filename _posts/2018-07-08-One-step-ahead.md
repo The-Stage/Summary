@@ -57,7 +57,7 @@ On our spare time at night, we watch occanionnaly movies together; have some dri
 
 While all of those feeling were flooding in my mind and making me feel safe, I just saw a group of four indigenous coming on my way. Each of them were armed. The first one got a spear; the next one was holding something like a sword; the third one was a pygmy with a cudgel in the left hand - he is certainly left handled -; the last one got a bow and a quiver with many arrows in his back - He looks really strong and seems to be the head of the group -. Those people seem coming from hunting. They were pulling something with great effort. I could not believe my eye. It was a person at the other side of the rope. Actually, it was a girl. Curly hair, wearing a bleue jeans - like the one youngs people used to wear, those one torn up everywhere -. She seems wounded on her head, there were blood on her face. But she wasn't crying. She was making just some little groan - she look exhausted, strengthless -. I could feel despair inside my heart. I couldn't move even a toe. A picture of me being caught keep stacked in my head. I was petrified of fear.
 
-They was walking slowly and carefuly. Like they knew something was going on here. They just stop instantanly under the tree I was on and sniff. I was tensed and hold strongly the tree. I was able - don't ask me how - to quote seven times the Lord's prayer even if I'm really a faith man.
+They was walking slowly and carefuly. Like they knew something was going on here. They just stop instantanly under the tree I was on and sniff. I was tensed and hold strongly the tree. I was able - don't ask me how - to quote seven times the Lord's prayer even if I'm not really a faith man.
 
 (to be continued ...)
 
