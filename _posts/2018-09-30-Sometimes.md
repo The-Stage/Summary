@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Somtimes ...
+title: Sometimes ...
 date: 2018-09-30
 categories: lifestyle
 author: AMOUSSOU Z. Kenneth
