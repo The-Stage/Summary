@@ -27,7 +27,7 @@ Sometimes we need a little bit of hope. A pitch of help to start roaring and
 shinning.
 
 You know what,  life is so fast. Take a break and breath deeply. You deserved it. 
-Then tackle one by one things that really matter to you. We are not build to multitask.
+Then tackle one by one things that really matter to you. We are not built to multitask.
 Mono task as much as possible and keep track of time.  It could help you get stuff done. 
 
 Feelings are quite difficult to handle. When you get fussy feelings, a little bit of introspection could help you out. 
