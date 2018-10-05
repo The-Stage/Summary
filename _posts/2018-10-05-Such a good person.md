@@ -12,8 +12,8 @@ Believe us or not,  what you are about to read is what we, your friends,  really
 think you are. 
 
 You are kind and brilliant. Mostly calm and peaceful, you are the one rushing to 
-ask what wrong with you friends or beloved one. You are the one suggesting many 
-solution to their problems. Even if you have no solution for tem,  you are usually 
+ask what wrong with your friends or beloved one. You are the one suggesting many 
+solutions to their problems. Even if you have no solution for them,  you are usually 
 on their side for support. 
 
 You're skillful and aware of it. No matter the situation and how it evolves, you 
@@ -26,13 +26,13 @@ listening for hours without shouting stop! Indeed, listening is such a great
 skill. Your humility is just awesome.
 
 Yes, it happens those moments you want to speak to nobody. Moments you want to 
-be alone. Moment you want to listen nobody but to be listened. Moments you're 
+be alone. Moments you want to listen nobody but to be listened. Moments you're 
 sad and want a silent shoulder to cry on. Moments you want to run away from 
 everything to find peace. Those moments are all good.  That's life. 
 
 Thanks for being so charming and careful about us. 
 Thanks for being a good friend. 
-Thanks for everything single effort you're doing for us. 
+Thanks for every single effort you're doing for us. 
 
 You're great, brilliant,  damn attractive, charming, cool, thoughtful, .... 
 You're amazing. Don't let nobody tell you the opposite. 
