@@ -16,7 +16,7 @@ ask what wrong with you friends or beloved one. You are the one suggesting many
 solution to their problems. Even if you have no solution for tem,  you are usually 
 on their side for support. 
 
-You're skilful and aware of it. No matter the situation and how it evolves, you 
+You're skillful and aware of it. No matter the situation and how it evolves, you 
 always lead it the right way to reach success. You're tireless when it is to 
 give a help. Yes,  sometimes you are exhausted and want to rest. But you always 
 find energy for the one that matter to you.
