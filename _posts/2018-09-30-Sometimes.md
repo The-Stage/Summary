@@ -15,7 +15,7 @@ Sometimes we hold the truth and decided to not believe it.
 
 Sometimes we feel laziness even if we are really motivated to get the job done. 
 
-Sometimes we get feelings we do no understand or maybe that we shouldn't have. 
+Sometimes we get feelings we do not understand or maybe that we shouldn't have. 
 
 Sometimes we get no answers to our questions. 
 

@@ -13,7 +13,7 @@ that make your heart ache?
 Have you ever been submerged by feelings that do no belong to you? 
 
 In one day,  so many things can happen. Some of those things fortify our person 
-and make us grown up intellectually, psychological and physically. Other things 
+and make us grown up intellectually, psychologically and physically. Other things 
 drawn out our energy and make us feel tired while doing less.
 
 And then happen the moment where we have no reference. We are like suspended to something or someone by our emotions. We are completely left out and without explanation of what is happening. We are literally like floating in the air purposeless.
